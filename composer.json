@@ -6,12 +6,12 @@
         "laravel",
         "laravel-circuit-breaker"
     ],
-    "homepage": "https://github.com/bvtterfly/laravel-circuit-breaker",
+    "homepage": "https://github.com/metapic/laravel-circuit-breaker",
     "license": "MIT",
     "authors": [
         {
-            "name": "ARI",
-            "email": "thearihdrn@gmail.com",
+            "name": "Metapic",
+            "email": "mark@metapic.com",
             "role": "Developer"
         }
     ],
@@ -34,12 +34,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Bvtterfly\\LaravelCircuitBreaker\\": "src"
+            "Metapic\\LaravelCircuitBreaker\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Bvtterfly\\LaravelCircuitBreaker\\Tests\\": "tests"
+            "Metapic\\LaravelCircuitBreaker\\Tests\\": "tests"
         }
     },
     "scripts": {
