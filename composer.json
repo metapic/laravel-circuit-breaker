@@ -57,7 +57,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Bvtterfly\\LaravelCircuitBreaker\\LaravelCircuitBreakerServiceProvider"
+                "Metapic\\LaravelCircuitBreaker\\LaravelCircuitBreakerServiceProvider"
             ],
             "aliases": {
                 "LaravelCircuitBreaker": "CircuitBreaker"
