@@ -34,12 +34,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Metapic\\LaravelCircuitBreaker\\": "src"
+            "Bvtterfly\\LaravelCircuitBreaker\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Metapic\\LaravelCircuitBreaker\\Tests\\": "tests"
+            "Bvtterfly\\LaravelCircuitBreaker\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -57,7 +57,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Metapic\\LaravelCircuitBreaker\\LaravelCircuitBreakerServiceProvider"
+                "Bvtterfly\\LaravelCircuitBreaker\\LaravelCircuitBreakerServiceProvider"
             ],
             "aliases": {
                 "LaravelCircuitBreaker": "CircuitBreaker"
